@@ -1,0 +1,63 @@
+#container{
+  width: 1280px;
+  height: 605px;
+  background-color: palegreen;
+}
+#search{
+  width: 250px;
+  height: 30px;
+  border: 2px solid black;
+  grid-column: 10px;
+  background-color: rgb(87, 25, 25);
+}
+#click{
+  width: 100px;
+  height: 35px;
+  margin-left: 10px;
+  background-color: rgb(79, 79, 229);
+  color: aliceblue;
+}
+#firstname{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  background-color: brown;
+}
+#lastname{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  margin-left: 10px;
+  background-color:rgb(111, 217, 247);
+  background-color: brown;
+}
+#email{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  margin-left: 10px;
+  background-color: brown;
+}
+#password{
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+  margin-left: 10px;
+  background-color: brown;
+}
+#submit1{
+  width: 90px;
+  height: 35px;
+  margin-left: 10px;
+  background-color: rgb(65, 65, 203);
+  color: aliceblue;
+}
+table,td{
+  width: 45vw;
+  height: 5vh;
+  border: 2px solid black;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: rgb(227, 137, 137);
+
+}
